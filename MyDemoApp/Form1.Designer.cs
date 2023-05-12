@@ -60,9 +60,9 @@
             this.TitleLabel.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.TitleLabel.Location = new System.Drawing.Point(345, 9);
             this.TitleLabel.Name = "TitleLabel";
-            this.TitleLabel.Size = new System.Drawing.Size(142, 24);
+            this.TitleLabel.Size = new System.Drawing.Size(204, 24);
             this.TitleLabel.TabIndex = 3;
-            this.TitleLabel.Text = "My Demo App";
+            this.TitleLabel.Text = "My Demo App (New)";
             // 
             // Form1
             // 
